@@ -18,8 +18,6 @@ A simple, cross‑platform notes app built with Flutter and Firebase. Users can 
 ### Tech stack
 - **Flutter** (Material 3 components)
 - **Firebase**: Authentication, Cloud Firestore
- - **Provider**: State management (`ChangeNotifier`)
- - **Shared Preferences**: Persist theme mode
  - **GitHub**: Repository hosting and version control (link to be added)
 
 
