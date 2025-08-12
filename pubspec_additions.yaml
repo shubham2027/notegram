@@ -1,0 +1,5 @@
+# Add these dependencies for Firebase and basic state management
+firebase_core: ^2.30.0
+firebase_auth: ^4.17.8
+cloud_firestore: ^4.15.8
+provider: ^6.1.2
