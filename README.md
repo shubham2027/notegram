@@ -51,4 +51,4 @@ flutter run
 - Saving a public note adds a private copy to “My Notes”; tapping again removes it.
 
 ### Attribution
--Dveloped using Cursor AI that managed the codebase throughout development; .
+-Developed using Cursor AI that managed the codebase throughout development.
